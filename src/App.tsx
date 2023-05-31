@@ -1,11 +1,9 @@
-import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
+import LoginForm from "./components/form/LoginForm";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello</h1>
+    <div className="flex flex-col">
+      <LoginForm/>
     </div>
   );
 }
