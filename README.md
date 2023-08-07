@@ -1,3 +1,12 @@
+# Final Project
+
+<div style="display: flex; flex-wrap: wrap;">
+<img src='/loginImg/img1.png' alt='img1' width='500'/>
+<img src='/loginImg/img2.png' alt='img1' width='500'/>
+<img src='/loginImg/img3.png' alt='img1' width='500'/>
+
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
